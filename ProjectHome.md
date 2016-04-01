@@ -1,0 +1,1 @@
+As my final Graduation paper,I choose to do speaker recognition.This is a game,first,record several people's voices(same content),second record one of these's people's voice,third recognize who he is.
